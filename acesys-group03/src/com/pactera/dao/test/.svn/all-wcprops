@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/acesys/!svn/ver/80/trunk/acesys-group03/src/com/pactera/dao/test
+END
+TestOrderDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/acesys/!svn/ver/72/trunk/acesys-group03/src/com/pactera/dao/test/TestOrderDAO.java
+END
+TestProductDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/acesys/!svn/ver/80/trunk/acesys-group03/src/com/pactera/dao/test/TestProductDAO.java
+END
+TestMailDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/acesys/!svn/ver/59/trunk/acesys-group03/src/com/pactera/dao/test/TestMailDAO.java
+END
+TestUserManagerDAOFindAllUsers.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/acesys/!svn/ver/40/trunk/acesys-group03/src/com/pactera/dao/test/TestUserManagerDAOFindAllUsers.java
+END
+TestLoginDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/acesys/!svn/ver/41/trunk/acesys-group03/src/com/pactera/dao/test/TestLoginDAO.java
+END
+TestUserManagerDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/acesys/!svn/ver/70/trunk/acesys-group03/src/com/pactera/dao/test/TestUserManagerDAO.java
+END

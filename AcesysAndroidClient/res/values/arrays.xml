@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="spinnername">
+        <item>商品编号</item>
+        <item>商品名称</item>
+        <item>分类名称</item>
+        <item>分类号</item>
+    </string-array>    
+</resources>

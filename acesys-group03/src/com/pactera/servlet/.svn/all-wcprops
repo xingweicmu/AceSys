@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/acesys/!svn/ver/97/trunk/acesys-group03/src/com/pactera/servlet
+END
+OrderServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/acesys/!svn/ver/97/trunk/acesys-group03/src/com/pactera/servlet/OrderServlet.java
+END
+ProductServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/acesys/!svn/ver/104/trunk/acesys-group03/src/com/pactera/servlet/ProductServlet.java
+END
+MailServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/acesys/!svn/ver/92/trunk/acesys-group03/src/com/pactera/servlet/MailServlet.java
+END
+ShopcartServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/acesys/!svn/ver/97/trunk/acesys-group03/src/com/pactera/servlet/ShopcartServlet.java
+END
+test.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/acesys/!svn/ver/4/trunk/acesys-group03/src/com/pactera/servlet/test.txt
+END
+LoginServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/acesys/!svn/ver/92/trunk/acesys-group03/src/com/pactera/servlet/LoginServlet.java
+END

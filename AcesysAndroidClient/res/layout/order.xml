@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+
+	<TableRow android:id="@+id/TableRow01"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content">
+		<TextView android:text="@string/name"
+		          android:layout_width="70dp"
+		          android:layout_height="40dp"
+		          >
+		</TextView>
+		<EditText android:layout_width="fill_parent"
+		          android:layout_height="40dp"
+		          android:id="@+id/ename"          
+	              android:singleLine="true"
+	              android:inputType="textPersonName">
+		</EditText>
+	</TableRow>
+	<TableRow android:id="@+id/TableRow02"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content">
+		<TextView android:text="@string/phone_number"
+		          android:layout_width="70dp"
+		          android:layout_height="40dp"
+		          >
+		</TextView>
+		<EditText android:layout_width="fill_parent"
+		          android:layout_height="40dp"
+		          android:id="@+id/etel"          
+	              android:singleLine="true"
+	              android:inputType="phone">
+		</EditText>
+	</TableRow>
+	<TableRow android:id="@+id/TableRow03"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content">
+		<TextView android:text="@string/email"
+		          android:layout_width="70dp"
+		          android:layout_height="40dp"
+		          >
+		</TextView>
+		<EditText android:layout_width="fill_parent"
+		          android:layout_height="40dp"
+		          android:id="@+id/email"          
+	              android:singleLine="true"
+	              android:inputType="textEmailAddress">
+		</EditText>
+	</TableRow>
+		<TableRow android:id="@+id/TableRow04"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content">
+		<TextView android:text="@string/addr"
+		          android:layout_width="70dp"
+		          android:layout_height="40dp"
+		          >
+		</TextView>
+		<EditText android:layout_width="fill_parent"
+		          android:layout_height="40dp"
+		          android:id="@+id/eaddress"          
+	              android:singleLine="true"
+	              android:inputType="textPostalAddress">
+		</EditText>
+	</TableRow>
+
+		<RelativeLayout
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content" >
+
+			<Button
+			    android:id="@+id/button_confrim"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_alignParentTop="true"
+			    android:layout_marginRight="24dp"
+			    android:layout_toLeftOf="@+id/button_cancel"
+			    android:text="@string/bt_confirm" />
+
+			<Button
+			    android:id="@+id/button_cancel"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_alignParentRight="true"
+			    android:layout_alignParentTop="true"
+			    android:layout_marginRight="80dp"
+			    android:text="@string/bt_cancel" />
+
+		</RelativeLayout>
+
+</LinearLayout>

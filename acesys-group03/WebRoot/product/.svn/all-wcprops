@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/acesys/!svn/ver/97/trunk/acesys-group03/WebRoot/product
+END
+Product_Search.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/acesys/!svn/ver/87/trunk/acesys-group03/WebRoot/product/Product_Search.jsp
+END
+checkout.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/acesys/!svn/ver/97/trunk/acesys-group03/WebRoot/product/checkout.jsp
+END
+products_search_show.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/acesys/!svn/ver/105/trunk/acesys-group03/WebRoot/product/products_search_show.jsp
+END
+cartshow.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/acesys/!svn/ver/97/trunk/acesys-group03/WebRoot/product/cartshow.jsp
+END
+orderitem_show.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/acesys/!svn/ver/4/trunk/acesys-group03/WebRoot/product/orderitem_show.jsp
+END
+ordershow.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/acesys/!svn/ver/4/trunk/acesys-group03/WebRoot/product/ordershow.jsp
+END
+mailmanager.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/acesys/!svn/ver/92/trunk/acesys-group03/WebRoot/product/mailmanager.jsp
+END
+updateproductuser.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/acesys/!svn/ver/4/trunk/acesys-group03/WebRoot/product/updateproductuser.jsp
+END
+changesuperuser.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/acesys/!svn/ver/4/trunk/acesys-group03/WebRoot/product/changesuperuser.jsp
+END
+checkoutsucc.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/acesys/!svn/ver/4/trunk/acesys-group03/WebRoot/product/checkoutsucc.jsp
+END
+products_show.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/acesys/!svn/ver/105/trunk/acesys-group03/WebRoot/product/products_show.jsp
+END

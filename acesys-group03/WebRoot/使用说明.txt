@@ -1,0 +1,4 @@
+在登录页面index.html 和 products.html 
+用admin 123 登录到管理员界面
+用user  123 登录到注册用户
+游客不用注册可以查看和购买商品

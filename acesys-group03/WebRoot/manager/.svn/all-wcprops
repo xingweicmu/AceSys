@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/acesys/!svn/ver/97/trunk/acesys-group03/WebRoot/manager
+END
+admin_ordershow.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/acesys/!svn/ver/4/trunk/acesys-group03/WebRoot/manager/admin_ordershow.jsp
+END
+products_showusers.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/acesys/!svn/ver/97/trunk/acesys-group03/WebRoot/manager/products_showusers.jsp
+END
+admin_products_show.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/acesys/!svn/ver/99/trunk/acesys-group03/WebRoot/manager/admin_products_show.jsp
+END
+update_products_admin.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/acesys/!svn/ver/101/trunk/acesys-group03/WebRoot/manager/update_products_admin.jsp
+END
+admin_orderuser.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/acesys/!svn/ver/4/trunk/acesys-group03/WebRoot/manager/admin_orderuser.jsp
+END
+add_products_admin.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/acesys/!svn/ver/98/trunk/acesys-group03/WebRoot/manager/add_products_admin.jsp
+END
+adminorderitem_show.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/acesys/!svn/ver/100/trunk/acesys-group03/WebRoot/manager/adminorderitem_show.jsp
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/acesys/!svn/ver/91/trunk/acesys-group03/src/com/pactera/dao
+END
+OrderDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/acesys/!svn/ver/77/trunk/acesys-group03/src/com/pactera/dao/OrderDAO.java
+END
+ProductDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/acesys/!svn/ver/102/trunk/acesys-group03/src/com/pactera/dao/ProductDAO.java
+END
+MailDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/acesys/!svn/ver/50/trunk/acesys-group03/src/com/pactera/dao/MailDAO.java
+END
+loginDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/acesys/!svn/ver/10/trunk/acesys-group03/src/com/pactera/dao/loginDAO.java
+END
+UserManagerDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/acesys/!svn/ver/53/trunk/acesys-group03/src/com/pactera/dao/UserManagerDAO.java
+END

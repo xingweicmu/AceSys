@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="acesys-group03"
+  id="myeclipse.1370485572696"
+  context-root="/acesys-group03"
+  j2ee-spec="5.0"
+  archive="acesys-group03.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
